@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BM.BCh. in Medicine, University of Oxford, 2027 (expected)
+* D.Phil. in Clinical Neurosciences, University of Oxford, 2023
+* M.Phys. in Physics, University of Oxford, 2020 (ranked #1 in year)
 
 Work experience
 ======
@@ -41,6 +41,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards & Prizes
+======
   
 Talks
 ======
@@ -53,7 +56,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
